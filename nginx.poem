@@ -1,0 +1,25 @@
+Nginx
+
+After a long time, I am getting relaxed,
+Will talk on the topic engine-x (nginx)
+
+Let's serve our web app on nginx,
+As it is a powerful web server with less risk.
+It provides an access log,
+Also error logs too which help us to fix.
+
+It is simple to install and config,
+You'll get a vast topic if you dig.
+We can get all nginx files under the /etc/nginx
+Make sure to create and backup default in nix.
+
+We have lots of routing methods in the config,
+/geek will redirect to the path of geek.
+Make sure to install nginx-extra,
+So that nginx version shouldn't leak.
+
+Let location=/partner be getting one stop to search another.
+Let location ~/you be always you not even You,
+You can have a lot of location ~*/wishes,
+That's /wishes can be /wishes_true.
+
